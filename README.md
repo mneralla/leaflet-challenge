@@ -9,7 +9,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ### Earthquake Visualization
 
-![2-BasicMap](Images/2-BasicMap.png)
+![2-BasicMap](Images/Capture.png)
 
    The USGS provides earthquake data in a number of different formats, updated every 5 minutes. I visited the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and selected a data set to visualize. By clicking on a data set, I was able to grab a URL of the JSON representation for "All Earthquakes from the Past 7 Days" to pull in the data for our visualization.
 
