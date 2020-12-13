@@ -15,14 +15,14 @@ The USGS is interested in building a new set of tools that will allow them visua
 
    ![4-JSON](Images/4-JSON.png)
 
-2. **Import & Visualize the Data**
+ **Import & Visualize the Data**
 
    I created a map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
 
-   * The data markers reflected the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes will appear larger and darker in color.
-
+   * The data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes will appear larger and darker in color.
    * Included popups that provide additional information about the earthquake when a marker is clicked.
-
+   * Various viewing mode options (Dark Mode, Light Mode, Outdoor Mode, Satellite Mode, Street Mode)
+   * Button option to add or remove Earthquakes from the map
 
 
 
